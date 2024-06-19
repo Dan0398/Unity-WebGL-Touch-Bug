@@ -1,6 +1,8 @@
 # Unity WebGL Touch Bug
 This repository describes an input reading error for Touch devices on the WebGL platform
 
+[BugReproduce.webm](https://github.com/Dan0398/Unity-WebGL-Touch-Bug/assets/90954515/ded48fa3-7f82-4f6c-9089-157dd9d68e2c)
+
 ### Description
 Current Unity3D project - sample of dragging a cube by screen to pointer position (mouse or touch).
 HTML page of our app contains 2 parts:
